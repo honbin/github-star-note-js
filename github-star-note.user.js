@@ -5,7 +5,8 @@
 // @include        https://github.com/stars*
 // @include        https://github.com/*/*
 // @author         satoshi honda <bin.honda@gmail.com>
-// @version        0.0.1
+// @namespace      http://userscripts.org/scripts/show/158337
+// @version        0.0.2
 // ==/UserScript==
 (function (d, func) {
   var h = d.getElementsByTagName('head')[0];
