@@ -106,9 +106,11 @@
     return href.match(/q=/) ? true : false;
   }
 
-  if (isStarsUrl()) {
-    showStarNote();
-  } else {
-    editStarNote();
-  }
+  $(document).ready(function(){
+    if (isStarsUrl()) {
+      showStarNote();
+    } else {
+      editStarNote();
+    }
+  });
 });
