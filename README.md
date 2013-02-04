@@ -7,8 +7,8 @@ chrome
 
 ## Screenshots
 
-![Screenshot1](https://github.com/honbin/github-star-note-js/blob/master/images/stars1.png)
-![Screenshot2](https://github.com/honbin/github-star-note-js/blob/master/images/stars2.png)
+![Screenshot1](https://raw.github.com/honbin/github-star-note-js/master/images/stars1.png)
+![Screenshot2](https://raw.github.com/honbin/github-star-note-js/master/images/stars2.png)
 
 ## Install
 http://userscripts.org/scripts/show/158337
