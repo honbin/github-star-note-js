@@ -1,12 +1,18 @@
-# stars comment on Github
+# stars note on Github
 this is user script
-starred note, and search starred note
+add starred note, and search starred note
 
-#Install
-http://userscripts.org/scripts/show/158337
-
-#Browser
+## Browser
 chrome
 
-#License
+## Screenshots
+
+[image]:
+
+[image]:
+
+## Install
+http://userscripts.org/scripts/show/158337
+
+## License
 The MIT License
