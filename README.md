@@ -7,9 +7,6 @@ chrome
 
 ## Screenshots
 
-[image]:
-
-[image]:
 
 ## Install
 http://userscripts.org/scripts/show/158337
